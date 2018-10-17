@@ -1,3 +1,3 @@
-# SmashSisters
-Smash brothers but for the Blueberry pi
+# SmashBerry
+Smash brothers but for the Raspberry pi
 
