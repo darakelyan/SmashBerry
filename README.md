@@ -1,5 +1,6 @@
 # SmashBerry
-Smash brothers but for the Raspberry pi
+
+Smash brothers but for the Rasberry
+- Fist smashing berry: logo idea
 
 Stupid Sexy Flanders
-
